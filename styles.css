@@ -1,0 +1,233 @@
+/* styles.css */
+
+.major-container {
+    height: 600px;
+    background-color: aqua;
+    padding: 1%;
+}
+
+.main-container {
+    display: flex;
+    height: 60px;
+    width: 1250px;
+    background-color: violet;
+    padding: 1%;
+    justify-content: space-between;
+}
+
+.funmi {
+    height: 60px;
+    width: 420px;
+    background-color: orange;
+}
+
+.tomi {
+    justify-content: center;
+    justify-content: space-between;
+    display: flex;
+    height: 58px;
+    width: 400px;
+    background-color: red;
+
+}
+
+.love {
+    margin-top: 2%;
+    height: 40px;
+    width: 195px;
+    background-color: yellow;
+    margin-left: 1%;
+}
+
+.life {
+    margin-top: 2%;
+    height: 40px;
+    width: 195px;
+    background-color: green;
+    margin-right: 1%;
+}
+
+.tobi {
+    height: 60px;
+    width: 420px;
+    background-color: blue;
+}
+
+#lara {
+    background-color: purple;
+    height: 160px;
+    width: 630px;
+}
+
+#timmy {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    height: 80px;
+    width: 1280px;
+    background-color: blue;
+    margin-top: 1%;
+}
+
+.item {
+    background-color: yellow;
+    height: 60px;
+    width: 420px;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+.item-one {
+    background-color: red;
+    height: 60px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 1%;
+}
+
+.gold {
+    background-color: green;
+    height: 40px;
+    width: 190px;
+    margin-top: 3%;
+
+}
+
+.silver {
+    background-color: black;
+    height: 40px;
+    width: 190px;
+    margin-top: 3%;
+}
+
+.item-two {
+    background-color: yellow;
+    height: 60px;
+    width: 420px;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+
+#timi {
+    height: 77px;
+    width: 630px;
+    background-color: black;
+    margin-left: 103%;
+}
+
+#skye {
+    background-color: green;
+    height: 77px;
+    width: 630px;
+    margin-left: 103%;
+    margin-top: 1%;
+}
+
+.land {
+    background-color: red;
+    height: 180px;
+    width: 180px;
+    border-radius: 100cm;
+    margin-left: 50%;
+    align-content: center;
+    margin-top: 1%;
+}
+
+.moon {
+    height: 160px;
+    width: 160px;
+    background-color: orange;
+    border-radius: 100ch;
+    margin-top: 2%;
+    align-content: center;
+}
+
+.sun {
+    height: 140px;
+    width: 140px;
+    background-color: yellow;
+    border-radius: 100%;
+    margin-top: 1%;
+    align-content: center;
+}
+
+.cloud {
+    height: 120px;
+    width: 120px;
+    background-color: green;
+    border-radius: 100%;
+    align-content: center;
+}
+
+.yolk {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 100%;
+    align-content: center;
+}
+
+.earth {
+    height: 80px;
+    width: 80px;
+    background-color: indigo;
+    border-radius: 100%;
+    color: white;
+    align-content: center;
+}
+
+.time {
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    background-color: violet;
+    align-content: center;
+}
+
+.timin {
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    background-color: black;
+    align-content: center;
+}
+
+.timing {
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    background-color: white;
+}
+
+#sect {
+    height: 40px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.sail {
+    height: 20px;
+    width: 65px;
+}
+
+.soar {
+    height: 18px;
+    width: 18px;
+    border-radius: 100%;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.high {
+    height: 20px;
+    width: 95px;
+}
+
+.img {
+        height: auto;
+        width: 50px;
+}
